@@ -1,1 +1,1 @@
-![Image of Yaktocat - To Be Replaced](https://octodex.github.com/images/yaktocat.png)
+![Bryonis PortFolio Picture](https://github.com/Bryonis/markdown-portfolio/includes/Robot V0.3a.png)
